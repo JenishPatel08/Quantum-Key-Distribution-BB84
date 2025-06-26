@@ -33,7 +33,7 @@ This project demonstrates the **BB84 Quantum Key Distribution Protocol** using P
 | Basis Matching | Shows how often Alice and Bob used the same basis |
 | QBER Chart     | Shows how many bits were correct vs. tampered |
 
-![QBER Visualization](images/qber_plot.png)
+![QBER Visualization](https://github.com/JenishPatel08/Quantum-Key-Distribution-BB84/blob/a8fc483960134a46c99bdeccf32b84fbe7104533/QuantumBB84/image/qber_plot.png)
 
 ---
 

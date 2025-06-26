@@ -1,0 +1,9 @@
+## 🚀 How to Run
+
+### 1. Install Requirements
+
+pip install qiskit matplotlib
+
+### run this command
+
+python bb84_with_eve.py
